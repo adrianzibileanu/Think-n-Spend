@@ -1,0 +1,3 @@
+rootProject.name = "Think 'n' Spend"
+include ':app'
+include ':myapplication'

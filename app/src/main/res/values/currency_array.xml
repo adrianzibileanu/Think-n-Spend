@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_aray">
+        <item>RON</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>BGN</item>
+    </string-array>
+</resources>
